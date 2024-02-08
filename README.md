@@ -1,7 +1,8 @@
 Welcome! My name is Kevin and this is my Github!
 
-Im a full-stack engineer based in New York City, I enjoy showcasing my passion and determination for coding. My expertise lies in my skill in problem-solving , communication and collabaration with peers and my commitment to excellence. With these skills, I adeptly navigate the entire software development lifecycle—from creation and testing to deployment and maintenance.
+Im a full-stack engineer based in New York City, I enjoy showcasing my passion and determination for coding. My expertise lies in my skill in problem-solving , communication and collabaration with peers and my commitment to excellence. With these skills, I adeptly navigate the entire software development lifecycle, from creation and testing to deployment and maintenance.
 
+**Principle Languages**
 
 ![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
